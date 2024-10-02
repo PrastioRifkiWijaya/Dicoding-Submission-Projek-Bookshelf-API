@@ -70,7 +70,9 @@ The total time required to complete this course is **45 hours**. Ready to embark
 4. Start the application: `npm run start`
 
 ## 📝 License
-This project is licensed under the MIT License. Please see the [LICENSE](LICENSE) file for more information.
+This project is licensed under the MIT License. Please see the [LICENSE](Bookshelf-API) file for more information.
+
+([Show Credential](https://www.dicoding.com/certificates/EYX4J2LQ6ZDL))
 
 ## 📞 Contact
 - **Email**: [Pras Tio Rifki Wijaya](mailto:wijayaprsatio23@gmail.com)
